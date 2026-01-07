@@ -35,7 +35,7 @@ I'm a software developer based in Moscow, Russia. I enjoy coding open-source pro
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladislavdev&repo=portfolio-website&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/vladislavdev/portfolio-website) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladislavdev&repo=task-manager-api&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/vladislavdev/task-manager-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virus&repo=runnerr-game&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/vladislavdev/portfolio-website) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladislavdev&repo=task-manager-api&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/vladislavdev/task-manager-api)
 
 &nbsp;
 
