@@ -4,7 +4,7 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in Volgograd, Russia. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like gaming, photography and building various projects with RaspberryPi or Arduino. You can find me on Twitter [@yourusername](https://twitter.com/yourusername). Feel free to tweet me any time. You can also check out my telegram channel [vladislav.dev](https://vladislav.dev) for my blog and more.
+I'm a software developer based in Volgograd, Russia. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like reading books, Game Development and making various projects with some engines. You can find me on Twitter [@virusxnopl](https://twitter.com/virusxnopl). Feel free to tweet me any time. You can also check out my telegram channel [vladislav.dev](https://vladislav.dev) for my blog and more.
 
 &nbsp;
 
